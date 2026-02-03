@@ -1,72 +1,648 @@
 [
-    {
-        "id": 1,
-        "anime": "0-saiji Start Dash Monogatari Season 2 - Ending 1",
-        "name": "\"Beyond the Trajectory\" by Chata",
-        "video": "https://eudist.animemusicquiz.com/5u2mhk.webm",
-        "mp3": null
-    },
-    {
-        "id": 2,
-        "anime": "1-punkan dake Furete mo Ii yo... Share House no Himitsu Rule. - Ending 1",
-        "name": "\"Session Sadame Night\" by Dai Takanashi",
-        "video": "https://eudist.animemusicquiz.com/f23gq2.webm",
-        "mp3": "https://eudist.animemusicquiz.com/ne5vos.mp3"
-    },
-    {
-        "id": 3,
-        "anime": "A-Rank Party wo Ridatsu shita Ore wa, Moto Oshiego-tachi to Meikyuu Shinbu wo Mezasu. - Ending 1",
-        "name": "\"Treasure Chest\" by Yuki Tanaka",
-        "video": "https://eudist.animemusicquiz.com/agsvoz.webm",
-        "mp3": "https://eudist.animemusicquiz.com/i3vp9q.mp3"
-    },
-    {
-        "id": 4,
-        "anime": "Akuyaku Reijou Tensei Ojisan - Ending 1",
-        "name": "\"Matsuken Samba II\" by Kazuhiko Inoue, M・A・O",
-        "video": "https://eudist.animemusicquiz.com/e8q47f.webm",
-        "mp3": "https://eudist.animemusicquiz.com/dje0hr.mp3"
-    },
-    {
-        "id": 5,
-        "anime": "Amagami-san Chi no Enmusubi - Ending 2",
-        "name": "\"Kamisama no Iu Toori!\" by ≠ME",
-        "video": "https://eudist.animemusicquiz.com/p4etz1.webm",
-        "mp3": "https://eudist.animemusicquiz.com/wz8z3p.mp3"
-    },
-    {
-        "id": 6,
-        "anime": "Ameku Takao no Suiri Karte - Ending 1",
-        "name": "\"will be fine\" by Gospellers feat. Anly",
-        "video": "https://eudist.animemusicquiz.com/0spf2m.webm",
-        "mp3": "https://eudist.animemusicquiz.com/iagxs7.mp3"
-    },
-    {
-        "id": 7,
-        "anime": "Ao no Exorcist: Yosuga-hen - Ending 1",
-        "name": "\"Overlap\" by Shiyui",
-        "video": "https://eudist.animemusicquiz.com/3z1d8i.webm",
-        "mp3": "https://eudist.animemusicquiz.com/162vdv.mp3"
-    },
-    {
-        "id": 8,
-        "anime": "Ao no Hako - Ending 2",
-        "name": "\"Contrast\" by TOMOO",
-        "video": "https://eudist.animemusicquiz.com/qmcqk3.webm",
-        "mp3": "https://eudist.animemusicquiz.com/l2sgqo.mp3"
-    },
-    {
-        "id": 9,
-        "anime": "Ao no Miburo - Ending 2",
-        "name": "\"Fragment\" by osage",
-        "video": "https://eudist.animemusicquiz.com/8b8iva.webm",
-        "mp3": "https://eudist.animemusicquiz.com/0yt4lm.mp3"
-    },
-    {
-        "id": 10,
-        "anime": "Arafou Otoko no Isekai Tsuuhan - Ending 1",
-        "name": "\"Aicraft\" by Kiminone",
-        "video": "https://eudist.animemusicquiz.com/ohlrpc.webm",
-        "mp3": "https://eudist.animemusicquiz.com/74jbjn.mp3"
-    }
+  {
+    "id": 1,
+    "anime": "BanG Dream! Ave Mujica - Opening 1",
+    "name": "\"KiLLKiSS\" by Ave Mujica",
+    "video": "https://naedist.animemusicquiz.com/69iprb.webm",
+    "mp3": null
+  },
+  {
+    "id": 2,
+    "anime": "Ameku Takao no Suiri Karte - Opening 1",
+    "name": "\"SCOPE\" by Aimer",
+    "video": "https://naedist.animemusicquiz.com/kpdjh0.webm",
+    "mp3": null
+  },
+  {
+    "id": 3,
+    "anime": "Medalist - Opening 1",
+    "name": "\"BOW AND ARROW\" by Kenshi Yonezu",
+    "video": "https://naedist.animemusicquiz.com/n0yfu8.webm",
+    "mp3": null
+  },
+  {
+    "id": 4,
+    "anime": "Meitantei Conan - Opening 59",
+    "name": "\"But No Love\" by Rainy.",
+    "video": "https://naedist.animemusicquiz.com/rb52oi.webm",
+    "mp3": null
+  },
+  {
+    "id": 5,
+    "anime": "Kusuriya no Hitorigoto 2nd Season - Opening 1",
+    "name": "\"Hyakka Ryouran\" by Lilas Ikuta",
+    "video": "https://naedist.animemusicquiz.com/u2wsys.webm",
+    "mp3": null
+  },
+  {
+    "id": 6,
+    "anime": "Ore dake Level Up na Ken Season 2: Arise from the Shadow - Opening 1",
+    "name": "\"ReawakeR\" by LiSA feat. Felix of Stray Kids",
+    "video": "https://naedist.animemusicquiz.com/zbxil2.webm",
+    "mp3": null
+  },
+  {
+    "id": 7,
+    "anime": "Arifureta Shokugyou de Sekai Saikyou Season 3 - Opening 2",
+    "name": "\"Compass\" by Void_Chords feat. MindaRyn",
+    "video": "https://naedist.animemusicquiz.com/0giywh.webm",
+    "mp3": null
+  },
+  {
+    "id": 8,
+    "anime": "Dr. Stone: Science Future - Opening 1",
+    "name": "\"CASANOVA POSSE\" by ALI",
+    "video": "https://naedist.animemusicquiz.com/0muwb3.webm",
+    "mp3": null
+  },
+  {
+    "id": 9,
+    "anime": "Watashi no Shiawase na Kekkon 2nd Season - Opening 1",
+    "name": "\"Shiawase na Yakusoku.\" by Riria.",
+    "video": "https://naedist.animemusicquiz.com/4ybn01.webm",
+    "mp3": null
+  },
+  {
+    "id": 10,
+    "anime": "Rurouni Kenshin: Meiji Kenkaku Romantan - Kyoto Douran - Opening 2",
+    "name": "\"BURN\" by yama",
+    "video": "https://naedist.animemusicquiz.com/ezhfzd.webm",
+    "mp3": null
+  },
+
+  {
+    "id": 11,
+    "anime": "Arifureta Shokugyou de Sekai Saikyou Season 3 - Ending 2",
+    "name": "\"Metamorphosis\" by iScream",
+    "video": "https://naedist.animemusicquiz.com/pno2er.webm",
+    "mp3": null
+  },
+  {
+    "id": 12,
+    "anime": "Hana wa Saku, Shura no Gotoku - Ending 1",
+    "name": "\"Rourou\" by Satou.",
+    "video": "https://naedist.animemusicquiz.com/wowo69.webm",
+    "mp3": null
+  },
+  {
+    "id": 13,
+    "anime": "Rurouni Kenshin: Meiji Kenkaku Romantan - Kyoto Douran - Ending 2",
+    "name": "\"Tada Hitotsu\" by ZARAME",
+    "video": "https://naedist.animemusicquiz.com/rwekbe.webm",
+    "mp3": null
+  },
+  {
+    "id": 14,
+    "anime": "BanG Dream! Ave Mujica - Ending 1",
+    "name": "\"Georgette Me, Georgette You\" by Ave Mujica",
+    "video": "https://naedist.animemusicquiz.com/5u8omt.webm",
+    "mp3": null
+  },
+  {
+    "id": 15,
+    "anime": "Sora-iro Utility (2025) - Ending 1",
+    "name": "\"Suiheisen\" by Moeka Yahagi",
+    "video": "https://naedist.animemusicquiz.com/ut8ihw.webm",
+    "mp3": null
+  },
+
+  {
+    "id": 16,
+    "anime": "Unnamed Memory Act.2 - Ending 1",
+    "name": "\"inclusion\" by Arika",
+    "video": "https://naedist.animemusicquiz.com/giukuw.webm",
+    "mp3": null
+  },
+  {
+    "id": 17,
+    "anime": "Chi.: Chikyuu no Undou ni Tsuite - Ending 2",
+    "name": "\"Hebi\" by Yorushika",
+    "video": "https://naedist.animemusicquiz.com/l9kjuo.webm",
+    "mp3": null
+  },
+  {
+    "id": 18,
+    "anime": "Grisaia: Phantom Trigger - Ending 1",
+    "name": "\"Dandelion\" by Yoshino Nanjo",
+    "video": "https://naedist.animemusicquiz.com/yn01o6.webm",
+    "mp3": null
+  },
+  {
+    "id": 19,
+    "anime": "Sousei no Aquarion: Myth of Emotions - Ending 1",
+    "name": "\"Kokuhaku\" by AKINO from bless4",
+    "video": "https://naedist.animemusicquiz.com/uz27rw.webm",
+    "mp3": null
+  },
+  {
+    "id": 20,
+    "anime": "Salaryman ga Isekai ni Ittara Shitennou ni Natta Hanashi - Ending 1",
+    "name": "\"TsuyoGirlfriend\" by otonari",
+    "video": "https://naedist.animemusicquiz.com/llvfzd.webm",
+    "mp3": null
+  },
+
+  {
+    "id": 21,
+    "anime": "Aru Majo ga Shinu made - Opening 1",
+    "name": "\"Drops\" by Maaya Sakamoto",
+    "video": "https://naedist.animemusicquiz.com/pbi3vy.webm",
+    "mp3": null
+  },
+  {
+    "id": 22,
+    "anime": "Teogonia - Opening 1",
+    "name": "\"Shoudou\" by Emi Noda",
+    "video": "https://naedist.animemusicquiz.com/47h0t3.webm",
+    "mp3": null
+  },
+  {
+    "id": 23,
+    "anime": "Summer Pockets - Opening 1",
+    "name": "\"ALKATALE\" by Konomi Suzuki",
+    "video": "https://naedist.animemusicquiz.com/7y0dj4.webm",
+    "mp3": null
+  },
+  {
+    "id": 24,
+    "anime": "Kanpeki Sugite Kawaige ga Nai to Konyaku Haki Sareta Seijo wa Ringoku ni Urareru - Opening 1",
+    "name": "\"Ai Toka.\" by Riria.",
+    "video": "https://naedist.animemusicquiz.com/y89pf1.webm",
+    "mp3": null
+  },
+  {
+    "id": 25,
+    "anime": "Kowloon Generic Romance - Opening 1",
+    "name": "\"Summertime Ghost\" by Wednesday Campanella",
+    "video": "https://naedist.animemusicquiz.com/2w4gxt.webm",
+    "mp3": null
+  },
+
+  {
+    "id": 26,
+    "anime": "Shoushimin Series 2nd Season - Opening 1",
+    "name": "\"Kaseijin\" by Yorushika",
+    "video": "https://naedist.animemusicquiz.com/2ejeyw.webm",
+    "mp3": null
+  },
+  {
+    "id": 27,
+    "anime": "Anne Shirley - Opening 1",
+    "name": "\"Yokan\" by Tota",
+    "video": "https://naedist.animemusicquiz.com/97kpau.webm",
+    "mp3": null
+  },
+  {
+    "id": 28,
+    "anime": "Rock wa Lady no Tashinamideshite - Opening 1",
+    "name": "\"Ready to Rock\" by BAND-MAID",
+    "video": "https://naedist.animemusicquiz.com/hr4bqw.webm",
+    "mp3": null
+  },
+  {
+    "id": 29,
+    "anime": "Kusuriya no Hitorigoto 2nd Season - Opening 2",
+    "name": "\"Kusushiki\" by Mrs. GREEN APPLE",
+    "video": "https://naedist.animemusicquiz.com/070r4c.webm",
+    "mp3": null
+  },
+  {
+    "id": 30,
+    "anime": "Shiunji-ke no Kodomo-tachi - Opening 1",
+    "name": "\"Honey Lemon\" by NACHERRY",
+    "video": "https://naedist.animemusicquiz.com/qby6ly.webm",
+    "mp3": null
+  },
+
+  {
+    "id": 31,
+    "anime": "Kidou Senshi Gundam GQuuuuuuX - Ending 1",
+    "name": "\"Mou Dou Natte mo Ii ya\" by Hoshimachi Suisei",
+    "video": "https://naedist.animemusicquiz.com/w88v11.webm",
+    "mp3": null
+  },
+  {
+    "id": 32,
+    "anime": "Rock wa Lady no Tashinamideshite - Ending 1",
+    "name": "\"Yume ja Nai Nara Nan nano sa\" by Little Glee Monster",
+    "video": "https://naedist.animemusicquiz.com/ghpi71.webm",
+    "mp3": null
+  },
+  {
+    "id": 33,
+    "anime": "Aharen-san wa Hakarenai Season 2 - Ending 1",
+    "name": "\"Twilight\" by shallm",
+    "video": "https://naedist.animemusicquiz.com/9emj1x.webm",
+    "mp3": null
+  },
+  {
+    "id": 34,
+    "anime": "A-Rank Party o Ridatsu Shita Ore wa, Moto Oshiego-tachi to Meikyuu Shinbu o Mezasu. - Ending 2",
+    "name": "\"MIRROR\" by Yuki Tanaka",
+    "video": "https://naedist.animemusicquiz.com/8cumvn.webm",
+    "mp3": null
+  },
+  {
+    "id": 35,
+    "anime": "Ansatsu Kyoushitsu (Rebroadcast) - Ending 1",
+    "name": "\"Tsuki no Fune\" by Atarayo",
+    "video": "https://naedist.animemusicquiz.com/85t1jz.webm",
+    "mp3": null
+  },
+
+  {
+    "id": 36,
+    "anime": "Guilty Gear Strive: Dual Rulers - Ending 1",
+    "name": "\"Arika\" by Nowlu",
+    "video": "https://naedist.animemusicquiz.com/ub3pny.webm",
+    "mp3": null
+  },
+  {
+    "id": 37,
+    "anime": "Kanpeki Sugite Kawaige ga Nai to Konyaku Haki Sareta Seijo wa Ringoku ni Urareru - Ending 1",
+    "name": "\"Sister\" by WON",
+    "video": "https://naedist.animemusicquiz.com/6ikdhd.webm",
+    "mp3": null
+  },
+  {
+    "id": 38,
+    "anime": "Vigilante: Boku no Hero Academia Illegals - Ending 1",
+    "name": "\"Speed\" by yutori",
+    "video": "https://naedist.animemusicquiz.com/8iraa2.webm",
+    "mp3": null
+  },
+  {
+    "id": 39,
+    "anime": "Shoushimin Series 2nd Season - Ending 1",
+    "name": "\"SugaRiddle\" by Nagi Yanagi",
+    "video": "https://naedist.animemusicquiz.com/yten97.webm",
+    "mp3": null
+  },
+  {
+    "id": 40,
+    "anime": "Chuuzenji-sensei Mononoke Kougiroku - Ending 1",
+    "name": "\"Kimi no Shiranai Koto\" by Sizuk feat. AYAME",
+    "video": "https://naedist.animemusicquiz.com/8ku9p2.webm",
+    "mp3": null
+  },
+
+  {
+    "id": 41,
+    "anime": "Zutaboro Reijou wa Ane no Moto Konyakusha ni Dekiai sareru - Opening 1",
+    "name": "\"Gesshoku\" by krage",
+    "video": "https://naedist.animemusicquiz.com/xhl5mv39oaaiwprl.webm",
+    "mp3": null
+  },
+  {
+    "id": 42,
+    "anime": "Ruri no Houseki - Opening 1",
+    "name": "\"Hikari no Sumika\" by Rei Yasuda",
+    "video": "https://naedist.animemusicquiz.com/e4xmwtwrvws1clmq.webm",
+    "mp3": null
+  },
+  {
+    "id": 43,
+    "anime": "Nukitashi the Animation - Opening 1",
+    "name": "\"Utopia or Dystopia\" by Yuki Yumeno",
+    "video": "https://naedist.animemusicquiz.com/c74bhuw442g9ryex.webm",
+    "mp3": null
+  },
+  {
+    "id": 44,
+    "anime": "Silent Witch: Chinmoku no Majo no Kakushigoto - Opening 1",
+    "name": "\"Feel\" by Hitsujibungaku",
+    "video": "https://naedist.animemusicquiz.com/8fxf7q85xgqibwn1.webm",
+    "mp3": null
+  },
+  {
+    "id": 45,
+    "anime": "Arknights: Enshin Shomei / Rise from Ember - Opening 1",
+    "name": "\"End of Days\" by ReoNa",
+    "video": "https://naedist.animemusicquiz.com/u68hzoidt3hla6al.webm",
+    "mp3": null
+  },
+
+  {
+    "id": 46,
+    "anime": "Summer Pockets - Opening 2",
+    "name": "\"FINISTELLER\" by Konomi Suzuki",
+    "video": "https://naedist.animemusicquiz.com/fh5tors2893hkpzu.webm",
+    "mp3": null
+  },
+  {
+    "id": 47,
+    "anime": "Kaoru Hana wa Rin to Saku - Opening 1",
+    "name": "\"Manazashi wa Hikari\" by Tatsuya Kitani",
+    "video": "https://naedist.animemusicquiz.com/1n91xr7aot9ptg39.webm",
+    "mp3": null
+  },
+  {
+    "id": 48,
+    "anime": "Isekai Mokushiroku Mynoghra - Opening 1",
+    "name": "\"Majestic Catastrophe\" by Rico Sasaki",
+    "video": "https://naedist.animemusicquiz.com/3zthvhkuzzkhbv0a.webm",
+    "mp3": null
+  },
+  {
+    "id": 49,
+    "anime": "City the Animation - Opening 1",
+    "name": "\"Hello\" by Furui Riho",
+    "video": "https://naedist.animemusicquiz.com/up56u564ysh73de0.webm",
+    "mp3": null
+  },
+  {
+    "id": 50,
+    "anime": "Sono Bisque Doll wa Koi wo Suru Season 2 - Opening 1",
+    "name": "\"Ao to Kirameki\" by Spira Spica",
+    "video": "https://naedist.animemusicquiz.com/fs9vps9ebx7xuo3f.webm",
+    "mp3": null
+  },
+
+  {
+    "id": 51,
+    "anime": "Kizu Darake Seijo Yori Houfuku o Komete - Ending 1",
+    "name": "\"Abyss\" by Nonpy",
+    "video": "https://naedist.animemusicquiz.com/oohk3hcrrz9j9wnw.webm",
+    "mp3": null
+  },
+  {
+    "id": 52,
+    "anime": "Dr. Stone: Science Future Part 2 - Ending 1",
+    "name": "\"no man's world\" by otoha",
+    "video": "https://naedist.animemusicquiz.com/2tqk5lw5dttft573.webm",
+    "mp3": null
+  },
+  {
+    "id": 53,
+    "anime": "9: Ruler's Crown - Ending 1",
+    "name": "\"Pale Blaze\" by Chihiro Yonekura",
+    "video": "https://naedist.animemusicquiz.com/bmfwxitznv189e9y.webm",
+    "mp3": null
+  },
+  {
+    "id": 54,
+    "anime": "Tate no Yuusha no Nariagari Season 4 - Ending 1",
+    "name": "\"Eien ni Ikkai no\" by Chiai Fujikawa",
+    "video": "https://naedist.animemusicquiz.com/1sfy921m0mgcw77j.webm",
+    "mp3": null
+  },
+  {
+    "id": 55,
+    "anime": "Witch Watch - Ending 2",
+    "name": "\"Tsuki to Watashi no Kakurenbo\" by yutori",
+    "video": "https://naedist.animemusicquiz.com/z7kvsi6ow72k0tk7.webm",
+    "mp3": null
+  },
+
+  {
+    "id": 56,
+    "anime": "Kaoru Hana wa Rin to Saku - Ending 1",
+    "name": "\"Hare no Hi ni\" by UshioReira",
+    "video": "https://naedist.animemusicquiz.com/twaak6l68polyevy.webm",
+    "mp3": null
+  },
+  {
+    "id": 57,
+    "anime": "Silent Witch: Chinmoku no Majo no Kakushigoto - Ending 1",
+    "name": "\"mild days\" by Hitsujibungaku",
+    "video": "https://naedist.animemusicquiz.com/nl558rs9hrprmi0t.webm",
+    "mp3": null
+  },
+  {
+    "id": 58,
+    "anime": "Zutaboro Reijou wa Ane no Moto Konyakusha ni Dekiai sareru - Ending 1",
+    "name": "\"Marie\" by Myuk",
+    "video": "https://naedist.animemusicquiz.com/kvwk99z9y5vevrch.webm",
+    "mp3": null
+  },
+  {
+    "id": 59,
+    "anime": "Turkey! - Ending 1",
+    "name": "\"Moshimo\" by Taiyou to Odore Tsukiyo ni Utae",
+    "video": "https://naedist.animemusicquiz.com/x8ijfych8ovltqah.webm",
+    "mp3": null
+  },
+  {
+    "id": 60,
+    "anime": "Yuusha Party o Tsuihou Sareta Shiro Madoushi - Ending 1",
+    "name": "\"Hikari Sasu Tobira\" by ChouCho",
+    "video": "https://naedist.animemusicquiz.com/7a2oviteaa5sgswh.webm",
+    "mp3": null
+  },
+
+  {
+    "id": 61,
+    "anime": "Towa no Yuugure - Opening 1",
+    "name": "\"Platform\" by Uru",
+    "video": "https://naedist.animemusicquiz.com/dmffuj6fnbjcajkd.webm",
+    "mp3": null
+  },
+  {
+    "id": 62,
+    "anime": "Saigo ni Hitotsu dake Onegai Shite mo Yoroshii Deshou ka - Opening 1",
+    "name": "\"Senjou no Hana\" by CHiCO with HoneyWorks",
+    "video": "https://naedist.animemusicquiz.com/9reqk6bl957bta8t.webm",
+    "mp3": null
+  },
+  {
+    "id": 63,
+    "anime": "Watashi o Tabetai, Hitodenashi - Opening 1",
+    "name": "\"nie\" by Yoshino",
+    "video": "https://naedist.animemusicquiz.com/va6fyttn25wgdjzn.webm",
+    "mp3": null
+  },
+  {
+    "id": 64,
+    "anime": "Sanda - Opening 1",
+    "name": "\"Adultic Children\" by yama",
+    "video": "https://naedist.animemusicquiz.com/kdbt80npxhy5n9ec.webm",
+    "mp3": null
+  },
+  {
+    "id": 65,
+    "anime": "Nageki no Bourei wa Intai Shitai 2nd Season - Opening 1",
+    "name": "\"Algorithm\" by Kiyono Yasuno",
+    "video": "https://naedist.animemusicquiz.com/ddq7njlsjwqzcli9.webm",
+    "mp3": null
+  },
+
+  {
+    "id": 66,
+    "anime": "Ao no Orchestra Season 2 - Opening 1",
+    "name": "\"Amadeus\" by Galileo Galilei",
+    "video": "https://naedist.animemusicquiz.com/lu04wltuec5wco4p.webm",
+    "mp3": null
+  },
+  {
+    "id": 67,
+    "anime": "Kekkon Yubiwa Monogatari II - Opening 1",
+    "name": "\"Daybreak\" by Sizuk feat. AYAME",
+    "video": "https://naedist.animemusicquiz.com/lw1aafegsfb4rii9.webm",
+    "mp3": null
+  },
+  {
+    "id": 68,
+    "anime": "Princession Orchestra - Opening 2",
+    "name": "\"FUTURE SESSION\" by ORCHERIA",
+    "video": "https://naedist.animemusicquiz.com/tc9ecgbs06yms0wh.webm",
+    "mp3": null
+  },
+  {
+    "id": 69,
+    "anime": "Yasei no Last Boss ga Arawareta! - Opening 1",
+    "name": "\"Level o Agete Butsuri de Naguru\" by Kishida Kyoudan & THE Akeboshi Rockets",
+    "video": "https://naedist.animemusicquiz.com/pjre098nx1dmyxcf.webm",
+    "mp3": null
+  },
+  {
+    "id": 70,
+    "anime": "Sozai Saishuka no Isekai Ryokouki - Opening 1",
+    "name": "\"Prologue\" by Nornis",
+    "video": "https://naedist.animemusicquiz.com/3d3zhiqdg6o4cwt2.webm",
+    "mp3": null
+  },
+
+  {
+    "id": 71,
+    "anime": "Aru Hi, Ohime-sama ni Natte shimatta Ken ni Tsuite - Ending 1",
+    "name": "\"Sono Hitomi de\" by XAI",
+    "video": "https://naedist.animemusicquiz.com/sky9besohjlfu8cf.webm",
+    "mp3": null
+  },
+  {
+    "id": 72,
+    "anime": "Ansatsu Kyoushitsu 2nd Season (Rebroadcast) - Ending 1",
+    "name": "\"Infinity karat\" by Nanami Urara",
+    "video": "https://naedist.animemusicquiz.com/9w4d5rfx78enuv8j.webm",
+    "mp3": null
+  },
+  {
+    "id": 73,
+    "anime": "Shuumatsu Touring - Ending 1",
+    "name": "\"Glide\" by Myuk",
+    "video": "https://naedist.animemusicquiz.com/8p0jdducy7qlzd00.webm",
+    "mp3": null
+  },
+  {
+    "id": 74,
+    "anime": "Egao no Taenai Shokuba desu. - Ending 1",
+    "name": "\"Thankful\" by Sizuk feat. Nagi Yanagi",
+    "video": "https://naedist.animemusicquiz.com/kfsgrfrf38egxvr8.webm",
+    "mp3": null
+  },
+  {
+    "id": 75,
+    "anime": "Kekkon Yubiwa Monogatari II - Ending 1",
+    "name": "\"any if\" by Akari Kitou",
+    "video": "https://naedist.animemusicquiz.com/psh5kviy9vfub3fs.webm",
+    "mp3": null
+  },
+
+  {
+    "id": 76,
+    "anime": "Uma Musume: Cinderella Gray Part 2 - Ending 1",
+    "name": "\"Futari\" by Tomoyo Takayanagi & Naomi Oozora",
+    "video": "https://naedist.animemusicquiz.com/msm2drinalvpnfb2.webm",
+    "mp3": null
+  },
+  {
+    "id": 77,
+    "anime": "Luo Xiao Hei Senki - Ending 1",
+    "name": "\"Pastoral\" by Aimer",
+    "video": "https://naedist.animemusicquiz.com/19umkx7ojzil4rdt.webm",
+    "mp3": null
+  },
+  {
+    "id": 78,
+    "anime": "Saigo ni Hitotsu dake Onegai Shite mo Yoroshii Deshou ka - Ending 1",
+    "name": "\"Inferior\" by Shiyui",
+    "video": "https://naedist.animemusicquiz.com/gh8xwtcm54n32x44.webm",
+    "mp3": null
+  },
+  {
+    "id": 79,
+    "anime": "Digimon Beatbreak - Ending 1",
+    "name": "\"beat up\" by Ai Tomioka",
+    "video": "https://naedist.animemusicquiz.com/3jtt2s0q2z97jm8w.webm",
+    "mp3": null
+  },
+  {
+    "id": 80,
+    "anime": "Boku no Hero Academia Final Season - Ending 1",
+    "name": "\"I\" by BUMP OF CHICKEN",
+    "video": "https://naedist.animemusicquiz.com/4jvh3o8jm8c66pj6.webm",
+    "mp3": null
+  },
+
+  {
+    "id": 81,
+    "anime": "Chainsaw Man Movie: Reze-hen - Ending 1",
+    "name": "\"JANE DOE\" by Kenshi Yonezu, Hikaru Utada",
+    "video": "https://naedist.animemusicquiz.com/mi34bo.webm",
+    "mp3": null
+  },
+  {
+    "id": 82,
+    "anime": "Chainsaw Man Movie: Reze-hen - Opening 1",
+    "name": "\"IRIS OUT\" by Kenshi Yonezu",
+    "video": "https://naedist.animemusicquiz.com/tjtqrk.webm",
+    "mp3": null
+  },
+  {
+    "id": 83,
+    "anime": "BanG Dream! Ave Mujica - Insert Song",
+    "name": "\"Sora no Musica\" by Ave Mujica",
+    "video": "https://naedist.animemusicquiz.com/7cucm6.webm",
+    "mp3": null
+  },
+  {
+    "id": 84,
+    "anime": "BanG Dream! Ave Mujica - Insert Song",
+    "name": "\"Imprisoned XII\" by Ave Mujica",
+    "video": "https://naedist.animemusicquiz.com/8fbxzn.webm",
+    "mp3": null
+  },
+  {
+    "id": 85,
+    "anime": "Towa no Yuugure - Opening 2",
+    "name": "\"Ai\" by Uru",
+    "video": "https://naedist.animemusicquiz.com/asds4o5rw5f0jk21.webm",
+    "mp3": null
+  },
+
+  {
+    "id": 86,
+    "anime": "Maebashi Witches - Insert Song",
+    "name": "\"Wither\" by Yuu Serizawa",
+    "video": "https://naedist.animemusicquiz.com/o3gpb4.webm",
+    "mp3": null
+  },
+  {
+    "id": 87,
+    "anime": "Turkey! - Ending 3",
+    "name": "\"sincerity flower\" by Aira Yuuki",
+    "video": "https://naedist.animemusicquiz.com/qidpvwe2dimmvfzx.webm",
+    "mp3": null
+  },
+  {
+    "id": 88,
+    "anime": "Princession Orchestra - Ending 4",
+    "name": "\"Shinku no Ibara\" by Nana Mizuki",
+    "video": "https://naedist.animemusicquiz.com/kj8m82g9kpz0w9l1.webm",
+    "mp3": null
+  },
+  {
+    "id": 89,
+    "anime": "Turkey! - Ending 5",
+    "name": "\"Natsu no Sumika\" by Nagi Yanagi",
+    "video": "https://naedist.animemusicquiz.com/qt4kfbpxfclo8n1b.webm",
+    "mp3": null
+  },
+  {
+    "id": 90,
+    "anime": "Princession Orchestra - Insert Song",
+    "name": "\"TRIAD FORCE\" by ORCHERIA",
+    "video": "https://naedist.animemusicquiz.com/uwf70xor17ffimyg.webm",
+    "mp3": null
+  }
 ]
